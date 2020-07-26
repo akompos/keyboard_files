@@ -1,2 +1,2 @@
 # keyboard_files
-Firm and keymap
+Firmware and keymap
